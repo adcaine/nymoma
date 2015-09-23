@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".ModernArtActivity">
+    <item android:id="@+id/more_info_settings"
+          android:title="@string/more_information"
+          android:orderInCategory="100"
+          app:showAsAction="ifRoom"/>
+</menu>
